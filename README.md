@@ -1,5 +1,4 @@
 # To-Do-app
-# Import bootstrap to file
-# Imoprt jQwery library
-# Building app from scratch with jQwery
-# Creating responsive app
+* First import bootstrap to file
+* then imoprt jQwery library
+Building app from scratch with jQwery, and creating full responsive it. 
